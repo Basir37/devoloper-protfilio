@@ -33,7 +33,7 @@ h2 {
 
 .link-button {
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(rgb(250, 84, 54), rgba(245, 160, 110, 0.774));
     padding: 10px 40px;
     color: white;
     font-weight: 700;
